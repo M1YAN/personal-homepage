@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Mi's Academic Page"
-description              : "3rd-year undergraduate student at BUPT, Intern at ICT, CAS."
+description              : "4th-year undergraduate student at BUPT, Intern at ICT, CAS."
 repository               : "M1YAN/personal-homepage"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yan Mi (密言)"
-  avatar           : "images/miyan-avatar.jpg"
-  bio              : "Per aspera ad astra."
+  avatar           : "images/miyan-avatar-real.jpg"
+  bio              : "别赶路，去感受路。"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

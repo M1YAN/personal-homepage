@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me 
 
-Hi! I'm 3rd-year undergraduate student at Beijing University of Posts and Telecommunications, majoring in Computer Science and Technology. Now I'm an intern at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), fortunately supervised by Prof.[Qi Cao](https://caoqi92.github.io/).
+Hi! I'm 4th-year undergraduate student at Beijing University of Posts and Telecommunications, majoring in Computer Science and Technology. Now I'm an intern at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), fortunately supervised by Prof.[Qi Cao](https://caoqi92.github.io/).
 
 My research interest includes Recommender Systems Safety, LLM Safety, Trustworthy AI, and more.
 
@@ -29,7 +29,7 @@ My research interest includes Recommender Systems Safety, LLM Safety, Trustworth
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25 Under Review</div><img src='images/ARGUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ARGUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Goal-Aware Identification and Rectification of Misinformation in Multi-Agent Systems](https://arxiv.org/abs/2506.00509)
@@ -43,6 +43,7 @@ Zherui Li, **Yan Mi**, Zhenhong Zhou, Houcheng Jiang, Guibin Zhang, Kun Wang, Ju
 - *2022-2023 school year* Triple-A Students Honor in BUPT 
 - *2024.12* First Prize in Beijing, RAICOM Robot Developer Competition
 - *2024.12* National First Prize, Global Campus Artificial Intelligence Algorithm Elite Competition
+- *2025.10* Academic Scholarship in BUPT
 
 # 📖 Educations
 - *2022.09 - now*, School of Future, Beijing University of Posts and Telecommunications
