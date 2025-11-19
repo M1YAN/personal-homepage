@@ -29,7 +29,7 @@ My research interest includes Recommender Systems Safety, LLM Safety, Trustworth
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ARGUS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI WMAC Workshop</div><img src='images/ARGUS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Goal-Aware Identification and Rectification of Misinformation in Multi-Agent Systems](https://arxiv.org/abs/2506.00509)
